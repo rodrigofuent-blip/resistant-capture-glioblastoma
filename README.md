@@ -3,7 +3,7 @@
 **Associated article:** *Finite-Time Resistant Capture and Resistance-Aware Control in a Reduced Phenotypic Glioblastoma Model*  
 **Authors:** Rodrigo Fuentes Axtell and Juan Belmonte-Beitia
 
-The repository contains code, parameter definitions, numerical inputs, reference outputs, figures and procedures used to reproduce the finite-time adaptive-therapy and resistance-aware control calculations. The research article and Supplementary Information are submitted to the journal separately and are not distributed with this computational repository. Time and treatment intensity are nondimensional; the calculations do not represent patient-calibrated temozolomide schedules.
+The repository contains code, parameter definitions, numerical inputs, reference outputs, figures and procedures used to reproduce the finite-time adaptive-therapy and resistance-aware control calculations. The accompanying research article and Supplementary Information are not included in this computational repository. Time and treatment intensity are nondimensional; the calculations do not represent patient-calibrated temozolomide schedules.
 
 ## Repository contents
 
