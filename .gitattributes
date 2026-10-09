@@ -1,0 +1,2 @@
+# Preserve source and reference files byte-for-byte across Git checkouts.
+* -text

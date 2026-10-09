@@ -8,7 +8,7 @@ The repository contains code, parameter definitions, numerical inputs, reference
 ## Repository contents
 
 ```text
-paper1-reproducibility/
+resistant-capture-glioblastoma/
 ├── data/              Numerical reference inputs, trajectories and comparison arrays
 ├── src/               Model, solver, sensitivity and plotting implementations
 ├── scripts/           Reproduction commands and reference checks
