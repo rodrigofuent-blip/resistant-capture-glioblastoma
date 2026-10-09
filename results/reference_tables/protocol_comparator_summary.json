@@ -1,0 +1,12 @@
+{
+  "rows": 8,
+  "comparator_rows": 4,
+  "candidate_rows": 4,
+  "max_cross_method_abs_difference": 2.2554312995026748e-07,
+  "rounded_scientific_notation_3sf": "2.26e-07",
+  "event_AT_hmax": 0.1,
+  "periodic_RK4_h": 0.05,
+  "DOP853_rtol": 1e-09,
+  "DOP853_atol": 1e-11,
+  "DOP853_max_step": 2.0
+}

@@ -1,0 +1,16 @@
+{
+  "generated_files": [
+    "control_refinement_source_check.csv",
+    "main_AT_vs_MTD_summary.csv",
+    "main_cycle_stratified_summary.csv",
+    "main_parametric_25x25_summary.csv",
+    "supp_global_sensitivity_counts.csv",
+    "supp_mean_absolute_PRCC.csv",
+    "supp_partial_resistant_sensitivity.csv",
+    "supp_soft_safety_summary.csv",
+    "supp_threshold_sensitivity.csv"
+  ],
+  "grid50_cells": 2500,
+  "grid25_cells": 625,
+  "LHS_rows": 2000
+}

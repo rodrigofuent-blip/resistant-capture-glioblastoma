@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If using this software, cite the accompanying research article and the archived release when its DOI is available."
+title: "Computational reproducibility package for Finite-Time Resistant Capture and Resistance-Aware Control in a Reduced Phenotypic Glioblastoma Model"
+authors:
+  - family-names: "Fuentes Axtell"
+    given-names: "Rodrigo"
+  - family-names: "Belmonte-Beitia"
+    given-names: "Juan"
+type: software

@@ -1,0 +1,2 @@
+grid_rows,grid_cols,min_A_R,max_A_R,min_phi_R_T,max_phi_R_T,fraction_phi_ge_0p2,fraction_phi_ge_0p5
+25,25,0.09616723020586136,73.11530287187497,0.0006539806228913462,1.0,0.392,0.1888

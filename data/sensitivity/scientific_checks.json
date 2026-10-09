@@ -1,0 +1,18 @@
+{
+  "n_outputs": 8,
+  "n_predictors": 15,
+  "n_PRCC_coefficients": 120,
+  "n_fixed_LHS_samples": 2000,
+  "n_activation_selected": 1628,
+  "n_initial_ON": 203,
+  "n_failed": 0,
+  "max_terminal_time_error": 0.0,
+  "max_independent_PRCC_disagreement": 1.1102230246251565e-15,
+  "n_event_solver_crosschecks": 12,
+  "max_phi_R_crosscheck_diff": 0.0,
+  "n_step_refinements": 16,
+  "max_step_refinement_phi_R_diff": 1.0266192895791448e-07,
+  "max_step_refinement_Nmax_diff": 1.2789769243681806e-13,
+  "max_step_refinement_activations_diff": 0.0,
+  "max_reference_R2_regression_difference": 0.0
+}

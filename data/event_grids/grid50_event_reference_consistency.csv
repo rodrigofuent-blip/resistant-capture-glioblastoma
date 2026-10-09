@@ -1,0 +1,5 @@
+quantity,max_abs_error,n_cells_gt_1e-10
+phi_R_T,3.3306690738754696e-16,0
+A_u,0.12503125781436442,1
+cycle_map_post_initial,0.0,0
+first_on_post_initial,0.0,0

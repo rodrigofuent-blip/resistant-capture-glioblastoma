@@ -1,0 +1,17 @@
+{
+  "grid50": {
+    "threshold02_changed": 115,
+    "cycle_changed": 47
+  },
+  "grid25": {
+    "category_changed": 7,
+    "threshold02_changed": 4,
+    "threshold05_changed": 3
+  },
+  "grid60": {
+    "regime_changed": 319,
+    "threshold02_changed": 174,
+    "threshold05_changed": 68,
+    "cycle_changed": 2804
+  }
+}

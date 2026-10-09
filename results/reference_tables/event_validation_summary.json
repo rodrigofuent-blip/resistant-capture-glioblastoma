@@ -1,0 +1,19 @@
+{
+  "cases": 5,
+  "production_hmax": 0.1,
+  "production_bisection_tolerance": 1e-11,
+  "DOP853_rtol": 1e-11,
+  "DOP853_atol": 1e-13,
+  "DOP853_max_step": 2.0,
+  "DOP853_secondary_max_step": 0.25,
+  "max_abs_discrepancies": {
+    "delta_phi": 3.5788660146529594e-08,
+    "delta_AR": 3.322527982163592e-05,
+    "delta_AN": 6.85961833823967e-06,
+    "delta_Au": 7.1370660634784144e-06,
+    "delta_NT": 2.3467453202918875e-08,
+    "delta_first_on": 3.680611371237319e-12
+  },
+  "max_abs_difference_vs_archived_crosscheck": 1.1425527191022411e-11,
+  "activation_counts_agree": true
+}

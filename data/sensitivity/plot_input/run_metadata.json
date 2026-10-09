@@ -1,0 +1,16 @@
+{
+  "n": 2000,
+  "n_initial_ON": 203,
+  "cycle_definition": "postinitial OFF-to-ON only for both event and node-switched comparison",
+  "first_on_definition": "first treatment ON including t=0; differs from first reactivation diagnostic in 50x50 landscape",
+  "event_activation": 1628,
+  "matched_activation": 1628,
+  "changed_activation": 0,
+  "n_failed": 0,
+  "max_T_error": 0.0,
+  "max_matched_PRCC_abs_change": 0.1602651027173388,
+  "max_cellwise_phi_change": 0.22588419744197785,
+  "max_cellwise_Au_change": 82.11346901865531,
+  "elapsed_s": 8.784471048000341,
+  "node_activation": 1628
+}

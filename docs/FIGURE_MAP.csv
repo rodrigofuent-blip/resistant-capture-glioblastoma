@@ -1,0 +1,14 @@
+section,published_figure,package_path,origin_note
+Main,"Main Fig. 1, conceptual model",results/figures/main/Fig01_model_structure.png,Numbered figure from the associated manuscript
+Main,"Main Fig. 2, initial-condition landscape",results/figures/main/Fig02_initial_condition_landscapes.pdf,Numbered figure from the associated manuscript
+Main,"Main Fig. 3, finite-time regime map",results/figures/main/Fig03_finite_time_regime_map.png,Numbered figure from the associated manuscript
+Main,"Main Fig. 4, output-specific PRCC heatmap",results/figures/main/Fig04_activation_conditioned_PRCC_heatmap.pdf,Numbered figure from the associated manuscript
+Main,"Main Fig. 6, A/B/C control candidates",results/figures/main/Fig06_open_loop_control_candidates.pdf,Numbered figure from the associated manuscript
+Supplementary,"Supplement Fig. S5, cumulative burdens",results/figures/supplementary/FigS05_cumulative_burden.png,Numbered figure from the associated manuscript
+Supplementary,"Supplement Fig. S6, trade-off structure",results/figures/supplementary/FigS06_tradeoff_structure.png,Numbered figure from the associated manuscript
+Supplementary,"Supplement Fig. S7, aggregate PRCC",results/figures/supplementary/FigS07_mean_absolute_PRCC.pdf,Numbered figure from the associated manuscript
+Supplementary,Supplement Fig. S1,results/figures/supplementary/FigS01_PRCC_terminal_resistant_fraction.pdf,Numbered figure from the associated manuscript
+Supplementary,Supplement Fig. S2,results/figures/supplementary/FigS02_PRCC_cumulative_exposure.pdf,Numbered figure from the associated manuscript
+Supplementary,Supplement Fig. S3,results/figures/supplementary/FigS03_PRCC_cumulative_resistant_burden.pdf,Numbered figure from the associated manuscript
+Main,"Main Fig. 5, mechanistic decomposition",results/figures/main/Fig05_mechanistic_decomposition.pdf,Vector reproduction of the conceptual diagram in the article (page 26); editable drawing source not included
+Supplementary,"Supplement Fig. S4, event-localized 25x25 diagnostics",results/figures/supplementary/FigS04_event_localized_25x25_diagnostics.pdf,Four-panel event-localized 25x25 numerical diagnostic

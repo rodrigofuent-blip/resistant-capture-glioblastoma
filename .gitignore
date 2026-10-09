@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+*.log
+.DS_Store
+.vscode/
+.idea/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+work/

@@ -1,0 +1,5 @@
+threshold,node_fraction,event_fraction,n_changed,high_to_low,low_to_high
+0.1,0.7132,0.6956,70,57,13
+0.2,0.26,0.2372,115,86,29
+0.3,0.0304,0.008,62,59,3
+0.5,0.0,0.0,0,0,0

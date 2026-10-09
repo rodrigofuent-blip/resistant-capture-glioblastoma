@@ -1,0 +1,7 @@
+numpy==2.3.5
+scipy==1.17.0
+pandas==2.2.3
+sympy==1.14.0
+matplotlib==3.10.8
+numba==0.65.1
+torch==2.10.0

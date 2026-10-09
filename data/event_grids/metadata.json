@@ -1,0 +1,7 @@
+{
+  "event_solver": "RK4 h<=0.1 + bisection events",
+  "event_time_tolerance": 1e-11,
+  "integrals": "augmented under applied control",
+  "terminal_time": "exact T",
+  "cycle_definition": "post-initial OFF->ON; initial active state at t=0 excluded from cycle count"
+}

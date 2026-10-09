@@ -1,0 +1,13 @@
+analysis,command,reference_input_or_output,recomputed_output,publication_reference
+50x50 initial-condition grid,grid-full,data/event_grids/grid50_event_*.csv,work/grids_full/grid50_event_*.csv,Main Fig. 2
+25x25 parametric grid,grid-full,data/event_grids/grid25_event_*.csv,work/grids_full/grid25_event_*.csv,Supplement Fig. S4
+60x60 regime map,grid-full,data/event_grids/grid60_event_*.csv,work/grids_full/grid60_event_*.csv,Main Fig. 3
+LHS and PRCC,prcc-full,data/sensitivity/lhs_results_event_2000.csv,work/event_prcc_full/,Main Fig. 4 and Supplement S1-S3/S7
+PRCC plotting,prcc-figures,data/sensitivity/plot_input/,work/prcc_figures/,Main Fig. 4 and Supplement S1-S3/S7
+Control A/B/C optimization,control-quick,data/control/*.npz,work/control_quick/,Main Fig. 6
+Control robustness and safety,control-full,data/control/*.npz,work/control_full/,Supplement Tables S1-S2
+Publication tables,tables,data/ and results/reference_tables/reported_tables/,work/reported_tables/,Main and Supplement tables
+Temporal convergence,temporal,results/reference_tables/temporal_switching_table.csv,work/temporal_switching_table.csv,Supplement Table S4
+Event validation,event-validation,data/event_grids/event_core_vs_DOP853_crosscheck.csv,work/event_validation_five_cases.csv,Supplement numerical verification
+Protocol comparison,protocol-table,results/reference_tables/protocol_control_candidate_outcomes.csv,work/protocol_control_candidate_outcomes.csv,Supplement Table S8
+Custom trajectory,scripts/run_custom_trajectory.py,,work/custom_trajectory.json,Exploratory reproducibility
